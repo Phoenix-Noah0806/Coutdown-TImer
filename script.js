@@ -35,20 +35,3 @@ if(time<0){
 
 
 
-// var countdown=new Date("Oct 16, 2021 00:00:00").getTime();
-// console.log(curtime)
-// var x=setInterval(function(){
-//     var now= new Date().getTime();
-//     var time=countdown-now;
-
-//     var days=Math.floor(time/(1000*60*60*24))
-//     var hours=Math.floor((time % (1000  *60*60*24))/(1000 *60 *60));
-//     var minutes=Math.floor((time %(1000 * 60    *60))/(1000*60));
-//     var seconds=Math.floor((time %(1000     *60))/1000)
-//     document.getElementById("days").innerHTML=days;
-//     document.getElementById("hours").innerHTML=hours;
-//     document.getElementById("minutes").innerHTML=minutes;
-//     document.getElementById("seconds").innerHTML=seconds;
-
-// },1000)
-
